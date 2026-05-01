@@ -2,6 +2,10 @@
 
 Este projeto foi desenvolvido como parte de um desafio da **Digital Innovation One (DIO)** e tem como objetivo construir um **pipeline de ETL (Extract, Transform, Load)** utilizando Python, Google Colab e a API da Cohere para geração de mensagens personalizadas.
 
+## ▶️ Abrir no Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DanielOlliveira/Projeto-DIO-Pipeline-de-ETL-com-Python/blob/main/Projeto_Pipeline_ETL_Python.ipynb)
+
 ---
 
 ## 🚀 Objetivo
